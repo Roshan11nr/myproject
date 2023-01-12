@@ -8,7 +8,7 @@ Here in this project we used static web apps and azure health bot for devolping 
 
 
 **Project Link** - https://icy-coast-05bd8bd00.2.azurestaticapps.net
-**Project demo video link** - 
+**Project demo video link** - https://youtu.be/Wtp-3PSovb0
 
 ## Azure technologies used for Project
 
