@@ -23,7 +23,7 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-###Home-
+### Home -
 <img width="960" alt="home" src="https://user-images.githubusercontent.com/113574188/212017291-557b8fd0-a5fc-4073-aa17-81db26d24260.png">
 
 
