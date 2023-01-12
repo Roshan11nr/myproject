@@ -24,7 +24,8 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 ### Home -
-<img width="960" alt="home" src="https://user-images.githubusercontent.com/113574188/212017291-557b8fd0-a5fc-4073-aa17-81db26d24260.png">
+<img width="960" alt="home1" src="https://user-images.githubusercontent.com/113574188/212020830-50b10137-ce88-4e99-a369-1f10c3b37c36.png">
+
 
 
 
