@@ -34,17 +34,34 @@ This is a web based application developed for health related based website in in
 
 ### About Us -
 
+<img width="960" alt="aboutus" src="https://user-images.githubusercontent.com/113574188/212019665-f98260f7-db93-4272-8615-d9ccd295b785.png">
 
 
-### Services -
+### Appoinment -
+
+<img width="960" alt="appoin" src="https://user-images.githubusercontent.com/113574188/212019852-c094a896-722d-4b64-ae07-1f82b3238751.png">
+
+
+### Pages -
+### Web Icons -
+
+<img width="960" alt="icons" src="https://user-images.githubusercontent.com/113574188/212020125-9ad9da1a-c51f-4ea7-8dc3-b26e8703c320.png">
+
+### Tyopography -
+<img width="960" alt="typo" src="https://user-images.githubusercontent.com/113574188/212020247-1d222cfd-3fc2-4108-9435-25f8e08cea39.png">
+
+
+### Departments -
+
+<img width="960" alt="depart" src="https://user-images.githubusercontent.com/113574188/212020415-8b295b14-dfff-4561-a2e8-5758c26045b2.png">
+
+### Contact  -
+<img width="960" alt="contact" src="https://user-images.githubusercontent.com/113574188/212020494-cfe30500-3aad-4fb8-aba8-3486622b55c0.png">
 
 
 
-### Contact us -
-
-
-
-### health bot
+### Chat bot - 
+<img width="960" alt="chat" src="https://user-images.githubusercontent.com/113574188/212020565-debfefd1-c47f-4dea-aaf4-e59b29ebe778.png">
 
 
 
