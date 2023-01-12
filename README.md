@@ -1,7 +1,7 @@
 # ✨ HEALTH PLUS ✨
 
-This is a web based application developed for health related based website 
-Here in this project we can used static web apps and azure health bot 
+This is a web based application developed for health related based website.
+Here in this project we can used static web apps and azure health bot.
 
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
@@ -13,10 +13,10 @@ Here in this project we can used static web apps and azure health bot
 ## Azure technologies used for Project
 
 - Static web apps
-- Health bot
+- Azure Health bot
 ### Static web apps
 Static web apps in Microsoft Azure allow developers to quickly create and deploy high-performance, serverless web applications. By leveraging the power of serverless computing, developers can focus on building and maintaining their applications without having to worry about maintaining the underlying infrastructure. Static web apps also enable developers to quickly build and deploy modern web applications with next-generation features such as custom domains, authentication, and automated deployments. Additionally, developers can take advantage of the scalability, reliability, and security of Microsoft Azure to power their applications.
-### Health bot 
+### Azure Health bot 
 Microsoft Azure Health Bot is a cloud-based service that enables healthcare organizations to build and deploy AI-powered virtual health assistants to help their customers find the right care. Health Bot can help answer questions about health topics, provide self-care guidance, and connect customers to the right provider. The bot can also collect patient data and triage cases. Healthcare organizations can deploy the Health Bot on their websites and apps, as well as via SMS, Cortana, and Skype.
 ## Features and Functionalities 😃
 
