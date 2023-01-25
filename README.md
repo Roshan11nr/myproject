@@ -31,7 +31,10 @@ Microsoft Azure Health Bot is a cloud-based service that enables healthcare orga
 ### Home -
 <img width="960" alt="home1" src="https://user-images.githubusercontent.com/113574188/212020830-50b10137-ce88-4e99-a369-1f10c3b37c36.png">
 
+<img width="960" alt="13" src="https://user-images.githubusercontent.com/113574188/214539264-e40db418-1c7a-493e-91da-49af6900edfd.png">
+<img width="960" alt="14" src="https://user-images.githubusercontent.com/113574188/214539310-c82d8ced-4e2f-4c8f-914d-388f0097b514.png">
 
+<img width="960" alt="15" src="https://user-images.githubusercontent.com/113574188/214539381-b944435d-a289-4eb9-8e66-639af5e8afd2.png">
 
 
 
@@ -41,6 +44,9 @@ Microsoft Azure Health Bot is a cloud-based service that enables healthcare orga
 ### About Us -
 
 <img width="960" alt="aboutus" src="https://user-images.githubusercontent.com/113574188/212019665-f98260f7-db93-4272-8615-d9ccd295b785.png">
+<img width="960" alt="11" src="https://user-images.githubusercontent.com/113574188/214538682-636a1cb4-0c38-41d1-aff2-16724ad28ac6.png">
+<img width="960" alt="12" src="https://user-images.githubusercontent.com/113574188/214538750-d7f9f20b-44d4-431d-89cf-8fa4593b2a59.png">
+<img width="960" alt="16" src="https://user-images.githubusercontent.com/113574188/214539454-05933baa-1cec-4cae-bedd-bad5ab5dab57.png">
 
 
 ### Appoinment -
@@ -60,6 +66,8 @@ Microsoft Azure Health Bot is a cloud-based service that enables healthcare orga
 ### Departments -
 
 <img width="960" alt="depart" src="https://user-images.githubusercontent.com/113574188/212020415-8b295b14-dfff-4561-a2e8-5758c26045b2.png">
+
+<img width="960" alt="depart" src="https://user-images.githubusercontent.com/113574188/214538450-b39d6c20-a767-46b6-8585-82a9ca9f84ad.png">
 
 ### Contact  -
 <img width="960" alt="contact" src="https://user-images.githubusercontent.com/113574188/212020494-cfe30500-3aad-4fb8-aba8-3486622b55c0.png">
