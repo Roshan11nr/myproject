@@ -58,10 +58,17 @@ Microsoft Azure Health Bot is a cloud-based service that enables healthcare orga
 ### Web Icons -
 
 <img width="960" alt="icons" src="https://user-images.githubusercontent.com/113574188/212020125-9ad9da1a-c51f-4ea7-8dc3-b26e8703c320.png">
+<img width="960" alt="18" src="https://user-images.githubusercontent.com/113574188/214542229-15e3be07-bfef-44c4-81ca-8acc9fe3a975.png">
+<img width="960" alt="19" src="https://user-images.githubusercontent.com/113574188/214542259-b6ec6e53-e2a1-4ed8-b722-571038c4d97a.png">
+<img width="960" alt="21" src="https://user-images.githubusercontent.com/113574188/214542300-01eacb91-e3f8-478f-b1eb-4e4a769b2faf.png">
+<img width="960" alt="22" src="https://user-images.githubusercontent.com/113574188/214542323-7634e46c-41b7-46d7-8c0a-58daa35d14a4.png">
+<img width="960" alt="23" src="https://user-images.githubusercontent.com/113574188/214542350-9986942f-6329-4a19-a263-b9886202c5a7.png">
+<img width="960" alt="24" src="https://user-images.githubusercontent.com/113574188/214542385-023d0be1-9e9a-4124-bc91-458a6e547d2d.png">
 
 ### Tyopography -
 <img width="960" alt="typo" src="https://user-images.githubusercontent.com/113574188/212020247-1d222cfd-3fc2-4108-9435-25f8e08cea39.png">
 
+<img width="960" alt="17" src="https://user-images.githubusercontent.com/113574188/214542146-ac5fcc67-9280-4dfa-9c72-4a9bf4c19369.png">
 
 ### Departments -
 
@@ -78,7 +85,10 @@ Microsoft Azure Health Bot is a cloud-based service that enables healthcare orga
 <img width="960" alt="chat" src="https://user-images.githubusercontent.com/113574188/212020565-debfefd1-c47f-4dea-aaf4-e59b29ebe778.png">
 
 
-
+### Azure Health Bot -  -
+<img width="960" alt="25" src="https://user-images.githubusercontent.com/113574188/214542761-0ab80115-bf7f-4e04-b8ce-2f56e6d63770.png">
+### Azure Static Web Apps
+<img width="960" alt="26" src="https://user-images.githubusercontent.com/113574188/214542915-395ca304-4e8d-44c1-8c91-a7ddd11685da.png">
 
 ## Tech Stack 💻
 
