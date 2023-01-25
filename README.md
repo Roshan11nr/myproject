@@ -89,7 +89,7 @@ Microsoft Azure Health Bot is a cloud-based service that enables healthcare orga
 <img width="960" alt="25" src="https://user-images.githubusercontent.com/113574188/214542761-0ab80115-bf7f-4e04-b8ce-2f56e6d63770.png">
 
 
- ## Azure Health Bot -  
+ ## Azure Static Web Apps -  
 <img width="960" alt="26" src="https://user-images.githubusercontent.com/113574188/214542915-395ca304-4e8d-44c1-8c91-a7ddd11685da.png">
 
 ## Tech Stack 💻
